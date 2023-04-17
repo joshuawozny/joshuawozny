@@ -1,5 +1,5 @@
 # Joshua Wozny
-## Online B.S. Computer Science Major at Southern New Hampshire University, Junior
+## Online B.S. Computer Science Major at Southern New Hampshire University, Senior
 
 <strong> Skills and Professional Interests include </strong>
 * Statistics
