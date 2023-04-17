@@ -9,7 +9,7 @@
 * C#
 * R
 * SQL
-* Multiple IDE's including PyCharm, Visual COde, Visual Studio, Code Blocks, Jupyter Notebooks, R-Studio
+* Multiple IDE's including PyCharm, Visual Code, Visual Studio, Code Blocks, Jupyter Notebooks, R-Studio
 * Operating Systems: Linux and Windows
 * Environments: bash, Powershell
 
