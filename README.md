@@ -1,6 +1,12 @@
 # Joshua Wozny
 ## M.S. Information Technology Major at Southern New Hampshire University, Expected Graduation August 2026
 
+<strong> Bio </strong>
+
+I’m currently a Business Intelligence & Power Platform Developer with Vermont’s Agency of Transportation. I build interactive dashboards and automated reporting solutions using Power BI, Tableau, SQL, Power Apps, and Power Automate to turn complex data into actionable insight.
+
+
+
 <strong> Skills and Professional Interests include </strong>
 * Data Analytics and Visualizations
   * Python (Pandas, in particular)
