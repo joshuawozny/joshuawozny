@@ -2,10 +2,11 @@
 ## M.S. Information Technology Major at Southern New Hampshire University, Expected Gratuation August 2026
 
 <strong> Skills and Professional Interests include </strong>
-* Statistics
 * Data Analytics and Visualizations
-* Python (Pandas, in particular)
-* SQL
+  * Python (Pandas, in particular)
+  * SQL
+  * Power BI (Advanced)
+  * Tableau (Intermediate)
 * Multiple IDE's including PyCharm, Visual Code, Visual Studio, Code Blocks, Jupyter Notebooks, R-Studio
 * Operating Systems: Linux and Windows
 * Environments: bash, Powershell
