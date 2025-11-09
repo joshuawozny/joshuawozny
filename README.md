@@ -1,13 +1,10 @@
 # Joshua Wozny
-## Online B.S. Computer Science Major at Southern New Hampshire University, Senior
+## M.S Information Technology Major at Southern New Hampshire University, Expected Gratuation August 2026
 
 <strong> Skills and Professional Interests include </strong>
 * Statistics
 * Data Analytics and Visualizations
-* Python (including Pandas, NumPy, matplotlib)
-* C++
-* C#
-* R
+* Python (Pandas, in particular)
 * SQL
 * Multiple IDE's including PyCharm, Visual Code, Visual Studio, Code Blocks, Jupyter Notebooks, R-Studio
 * Operating Systems: Linux and Windows
