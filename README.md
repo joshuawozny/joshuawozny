@@ -1,5 +1,6 @@
 # Joshua Wozny
-## M.S. Information Technology Major at Southern New Hampshire University, Expected Graduation August 2026
+## M.S. Information Technology Major at Southern New Hampshire University <br>Expected Graduation August 2026
+
 
 <strong> Bio </strong>
 
