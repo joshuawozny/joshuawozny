@@ -44,6 +44,8 @@ Describe the architecture and include a diagram if available.
    - screenshots/
    - readme.md
 
+/README.md
+
 ## 🚀 How to Use / Demo
 Explain how someone could test or understand the solution.
 
