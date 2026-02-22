@@ -10,3 +10,5 @@
 /azure-cost-model-law-firm
    - cost-analysis.xlsx
    - scenario.md
+
+/README.md
