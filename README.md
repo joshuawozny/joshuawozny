@@ -89,6 +89,6 @@ I maintain a structured, multi‑folder portfolio showcasing hands‑on projects
 ---
 
 ## **📫 Connect With Me**
-- **LinkedIn:** (Add your link)  
+- **LinkedIn:** [joshua-wozny-bathnh](https://www.linkedin.com/in/joshua-wozny-bathnh)
 - **Portfolio:** github.com/joshuawozny/portfolio  
 
