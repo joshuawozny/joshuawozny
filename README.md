@@ -90,8 +90,9 @@ I maintain a structured, multi‑folder portfolio showcasing hands‑on projects
 
 ## **📫 Connect With Me**
 - **LinkedIn:** [joshua-wozny-bathnh](https://www.linkedin.com/in/joshua-wozny-bathnh)
-- **Portfolio:** github.com/joshuawozny/portfolio  
+- **Portfolio:**
+[github.com/joshuawozny/portfolio](htps://github.com/joshuawozny/portfolio)
 
 ![PL-900](https://img.shields.io/badge/PL--900-In%20Progress-yellow)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Studying-orange)
-![PL-300](https://img.shields.io/badge/PL--300-In%20Progress-yellow))
+![PL-300](https://img.shields.io/badge/PL--300-In%20Progress-yellow)
